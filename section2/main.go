@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	const2()
+	enumiota3()
 }
