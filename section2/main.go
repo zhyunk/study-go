@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	var3()
+	const2()
 }
