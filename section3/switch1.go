@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func switch1() {
+func Switch1() {
 	// switch 다음에 오는 표현식 Expression 생략 가능
 	// case 다음에 오는 표현식 expression 사용 가능
 	// switch와 case의 들여쓰기 단계가 같다

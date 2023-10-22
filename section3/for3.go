@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func for3() {
+func For3() {
 	// 예제 1
 Loop:
 	for i := 0; i < 5; i++ {

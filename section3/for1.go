@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func for1() {
+func For1() {
 	// go에서 유일하게 제공되는 반복문
 	// 다양한 사용법 숙지
 

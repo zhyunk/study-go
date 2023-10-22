@@ -1,8 +1,8 @@
-package main
+package section2
 
 import "fmt"
 
-func var1() {
+func Var1() {
 	// 기본 초기화
 	// 정수 타입 : 0
 	// 실수 타입 : 0.0

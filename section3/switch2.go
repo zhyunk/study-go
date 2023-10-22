@@ -1,4 +1,4 @@
-package main
+package section3
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func switch2() {
+func Switch2() {
 	// 랜덤시드를 유닉스 시간 단위로 설정해 주면 매번 다른 난수를 얻을 수 있다.
 	// 더 안전한(예측하기 힘든) 난수를 얻고 싶다면 crypt/rand 패키지를 사용해야 한다. > https://www.joinc.co.kr/w/GoLang/example/randomnumber
 	rand.New(rand.NewSource(time.Now().UnixNano())) // rand.Seed(time.Now().UnixNano()) 가 deprecated 됨

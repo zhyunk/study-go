@@ -1,8 +1,8 @@
-package main
+package section2
 
 import "fmt"
 
-func const2() {
+func Const2() {
 	const a, b int = 10, 99
 	const c, d, e = true, 0.84, "test"
 

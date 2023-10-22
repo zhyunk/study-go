@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func switch3() {
+func Switch3() {
 	// 예제 1
 	a := 30 / 15
 	switch a {

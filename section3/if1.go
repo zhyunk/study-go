@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func if1() {
+func If1() {
 	// 조건문
 	// 반드시 bool 검사 -> 1, 0 사용 불가 (자동 형 변환 안됨)
 	// 소괄소 사용 x

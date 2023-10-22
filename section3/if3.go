@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func if3() {
+func If3() {
 	i := 44
 
 	// if - else if 예제 1

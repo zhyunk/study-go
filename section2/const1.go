@@ -1,8 +1,8 @@
-package main
+package section2
 
 import "fmt"
 
-func const1() {
+func Const1() {
 	// 상수
 	// const 사용 초기화, 한 번 선언 후 값 변경 금지
 	// 고정 된 값 관리용도

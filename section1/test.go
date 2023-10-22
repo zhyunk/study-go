@@ -1,5 +1,5 @@
-package main
+package section1
 
-func main() {
+func Test() {
 	println("test🥸")
 }

@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func for2() {
+func For2() {
 
 	// 예제 1
 	sum1 := 0

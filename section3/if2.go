@@ -1,8 +1,8 @@
-package main
+package section3
 
 import "fmt"
 
-func if2() {
+func If2() {
 
 	var a = 50
 	b := 70

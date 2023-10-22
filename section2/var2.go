@@ -1,8 +1,8 @@
-package main
+package section2
 
 import "fmt"
 
-func var2() {
+func Var2() {
 	var (
 		name      string = "machine"
 		height    int32

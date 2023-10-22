@@ -1,8 +1,8 @@
-package main
+package section2
 
 import "fmt"
 
-func var3() {
+func Var3() {
 	// 짧은 선언
 	// 반드시 함수 안에서만 사용해야 된다.
 	// 선언 후 할당하면 에러가 발생한다.

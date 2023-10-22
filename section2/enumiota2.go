@@ -1,8 +1,8 @@
-package main
+package section2
 
 import "fmt"
 
-func enumiota2() {
+func Enumiota2() {
 
 	const (
 		A = iota
