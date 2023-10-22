@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	if3()
+	switch3()
 }
