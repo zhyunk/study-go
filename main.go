@@ -13,5 +13,5 @@ func main() {
 	// s2.Enumiota3()
 	// s3.For3()
 	// s4.Init2()
-
+	s5.No2()
 }
