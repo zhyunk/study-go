@@ -40,3 +40,7 @@ func Var1() {
 		"\nl : ", l,
 		"\nm : ", m)
 }
+
+func init() {
+	fmt.Println("Section2 Package - var1.go - go go")
+}

@@ -14,3 +14,7 @@ func Access2() {
 	fmt.Println(num, "> 100 :", check100Up.CheckNum1(num))
 	fmt.Println(num, "> 1000 :", check100Up.CheckNum2(num))
 }
+
+func init() {
+	fmt.Println("Section4 Package - access2.go - go go")
+}

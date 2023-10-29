@@ -19,3 +19,7 @@ func Var2() {
 	fmt.Println("weight : ", weight)
 	fmt.Println("isRunning : ", isRunning)
 }
+
+func init() {
+	fmt.Println("Section2 Package - var2.go - go go")
+}

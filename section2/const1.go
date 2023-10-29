@@ -31,3 +31,7 @@ func Const1() {
 	fmt.Println("f : ", f)
 	fmt.Println("t : ", t)
 }
+
+func init() {
+	fmt.Println("Section2 Package - const1.go - go go")
+}

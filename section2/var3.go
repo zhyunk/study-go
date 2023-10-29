@@ -26,3 +26,7 @@ func Var3() {
 		fmt.Println("i = ", i) // i = 11
 	}
 }
+
+func init() {
+	fmt.Println("Section2 Package - var3.go - go go")
+}

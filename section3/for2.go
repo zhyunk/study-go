@@ -45,3 +45,7 @@ func For2() {
 	*/
 
 }
+
+func init() {
+	fmt.Println("Section3 Package - for2.go - go go")
+}

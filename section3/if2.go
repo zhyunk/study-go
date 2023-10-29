@@ -22,3 +22,7 @@ func If2() {
 	}
 
 }
+
+func init() {
+	fmt.Println("Section3 Package - if2.go - go go")
+}

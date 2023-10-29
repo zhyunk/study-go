@@ -45,3 +45,7 @@ func If1() {
 	}
 
 }
+
+func init() {
+	fmt.Println("Section3 Package - if1.go - go go")
+}

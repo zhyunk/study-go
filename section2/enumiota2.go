@@ -40,3 +40,7 @@ func Enumiota2() {
 	fmt.Println("May ", May)
 	fmt.Println("Jun ", Jun)
 }
+
+func init() {
+	fmt.Println("Section2 Package - enumiota2.go - go go")
+}

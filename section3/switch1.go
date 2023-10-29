@@ -63,3 +63,7 @@ func Switch1() {
 	}
 
 }
+
+func init() {
+	fmt.Println("Section3 Package - switch1.go - go go")
+}

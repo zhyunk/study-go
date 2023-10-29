@@ -26,3 +26,7 @@ func Enumiota3() {
 	fmt.Println("GOLD ", GOLD)
 	fmt.Println("PLATINUM ", PLATINUM)
 }
+
+func init() {
+	fmt.Println("Section2 Package - enumiota3.go - go go")
+}

@@ -35,3 +35,7 @@ here:
 	}
 
 }
+
+func init() {
+	fmt.Println("Section3 Package - for3.go - go go")
+}

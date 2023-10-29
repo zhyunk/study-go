@@ -16,3 +16,7 @@ func If3() {
 		fmt.Println("50 미만")
 	}
 }
+
+func init() {
+	fmt.Println("Section3 Package - if3.go - go go")
+}

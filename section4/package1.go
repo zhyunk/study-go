@@ -19,3 +19,7 @@ func Package1() {
 
 	fmt.Fprintf(os.Stdout, "Hi! %s\n", name)
 }
+
+func init() {
+	fmt.Println("Section4 Package - package1.go - go go")
+}

@@ -20,3 +20,7 @@ func Switch2() {
 		fmt.Println("i -> ", i, " , 25 미만")
 	}
 }
+
+func init() {
+	fmt.Println("Section3 Package - switch2.go - go go")
+}

@@ -51,3 +51,7 @@ func For1() {
 		fmt.Println("ex3 : ", name)
 	}
 }
+
+func init() {
+	fmt.Println("Section3 Package - for1.go - go go")
+}

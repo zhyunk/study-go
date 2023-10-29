@@ -36,3 +36,7 @@ func Switch3() {
 		fmt.Println("코틀린 !")
 	}
 }
+
+func init() {
+	fmt.Println("Section3 Package - switch3.go - go go")
+}

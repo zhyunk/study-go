@@ -15,3 +15,7 @@ func Access1() {
 	fmt.Println(num1, "은 100보다 큰 수? :", lib2.CheckNum1(num1))
 	fmt.Println(num2, "은 1000보다 큰 수? :", lib2.CheckNum2(num2))
 }
+
+func init() {
+	fmt.Println("Section4 Package - access1.go - go go")
+}
