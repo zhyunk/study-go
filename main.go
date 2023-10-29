@@ -11,5 +11,5 @@ func main() {
 	// s1.Test()
 	// s2.Enumiota3()
 	// s3.For3()
-	s4.Package2()
+	s4.Access1()
 }

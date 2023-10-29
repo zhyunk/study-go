@@ -1,5 +1,5 @@
 package lib
 
-func CheckNum(c int32) bool {
+func CheckNum(c int) bool {
 	return c > 10
 }
